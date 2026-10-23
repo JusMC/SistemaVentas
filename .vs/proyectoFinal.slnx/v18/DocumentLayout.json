@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|proyectoFinal\\proyectoFinal.csproj|c:\\dev\\universidad\\programacionv\\sistemaventas\\proyectofinal\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|proyectoFinal\\proyectoFinal.csproj|solutionrelative:proyectofinal\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|proyectoFinal\\proyectoFinal.csproj|c:\\dev\\universidad\\programacionv\\sistemaventas\\proyectofinal\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|proyectoFinal\\proyectoFinal.csproj|solutionrelative:proyectofinal\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|proyectoFinal\\proyectoFinal.csproj|c:\\dev\\universidad\\programacionv\\sistemaventas\\proyectofinal\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|proyectoFinal\\proyectoFinal.csproj|solutionrelative:proyectofinal\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 228,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\proyectoFinal\\models\\Venta.cs",
-              "RelativeDocumentMoniker": "proyectoFinal\\models\\Venta.cs",
-              "ToolTip": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\proyectoFinal\\models\\Venta.cs",
-              "RelativeToolTip": "proyectoFinal\\models\\Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\proyectoFinal\\models\\Persona.cs",
+              "RelativeDocumentMoniker": "proyectoFinal\\models\\Persona.cs",
+              "ToolTip": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\proyectoFinal\\models\\Persona.cs",
+              "RelativeToolTip": "proyectoFinal\\models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T01:15:37.586Z",
+              "WhenOpened": "2026-10-23T01:36:12.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\proyectoFinal\\models\\Cliente.cs",
+              "RelativeDocumentMoniker": "proyectoFinal\\models\\Cliente.cs",
+              "ToolTip": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\proyectoFinal\\models\\Cliente.cs",
+              "RelativeToolTip": "proyectoFinal\\models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T01:41:37.571Z",
               "EditorCaption": ""
             }
           ]
