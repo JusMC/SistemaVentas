@@ -18,8 +18,10 @@ namespace proyectoFinal.models
         {
             Console.WriteLine("Cliente #" + Id);
             Console.WriteLine("Nombre: " + Nombre);
-            Console.WriteLine("Teléfono: " + Telefono);
+            Console.WriteLine("Teléfono: " + Telefono)
             Console.WriteLine("Correo: " + Correo);
         }
     }
 }
+
+//cambios
