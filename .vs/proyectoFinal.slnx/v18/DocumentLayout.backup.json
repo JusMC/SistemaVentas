@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|proyectoFinal\\proyectoFinal.csproj|c:\\dev\\universidad\\programacionv\\sistemaventas\\proyectofinal\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|proyectoFinal\\proyectoFinal.csproj|solutionrelative:proyectofinal\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|proyectoFinal\\proyectoFinal.csproj|c:\\dev\\universidad\\programacionv\\sistemaventas\\proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|proyectoFinal\\proyectoFinal.csproj|solutionrelative:proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|proyectoFinal\\proyectoFinal.csproj|c:\\dev\\universidad\\programacionv\\sistemaventas\\proyectofinal\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|proyectoFinal\\proyectoFinal.csproj|solutionrelative:proyectofinal\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\proyectoFinal\\models\\Cliente.cs",
-              "RelativeDocumentMoniker": "proyectoFinal\\models\\Cliente.cs",
-              "ToolTip": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\proyectoFinal\\models\\Cliente.cs",
-              "RelativeToolTip": "proyectoFinal\\models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\proyectoFinal\\models\\Venta.cs",
+              "RelativeDocumentMoniker": "proyectoFinal\\models\\Venta.cs",
+              "ToolTip": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\proyectoFinal\\models\\Venta.cs",
+              "RelativeToolTip": "proyectoFinal\\models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T01:08:52.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\proyectoFinal\\Program.cs",
-              "RelativeDocumentMoniker": "proyectoFinal\\Program.cs",
-              "ToolTip": "C:\\Dev\\universidad\\ProgramacionV\\SistemaVentas\\proyectoFinal\\Program.cs",
-              "RelativeToolTip": "proyectoFinal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T01:03:49.815Z",
+              "WhenOpened": "2026-10-23T01:15:37.586Z",
               "EditorCaption": ""
             }
           ]
